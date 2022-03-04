@@ -4,7 +4,7 @@
 ## Table of contents
 1. [입출력과 사칙연산](https://github.com/cv-jaeha/algorithm/tree/main/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
 2. [if문](https://github.com/cv-jaeha/algorithm/tree/main/2.%20if%EB%AC%B8)
-3. [for문]()
+3. [for문](https://github.com/cv-jaeha/algorithm/tree/main/3.%20for%EB%AC%B8)
 4. [while문]()
 5. [1차원 배열]()
 6. [함수]()
