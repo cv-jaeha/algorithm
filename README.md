@@ -2,9 +2,9 @@
 백준 알고리즘 문제를 python을 이용해 풀어봄
 
 ## Table of contents
-1. [입출력과 사칙연산](https://github.com/cv-jaeha/algorithm/tree/main/1.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
-2. [조건문](https://github.com/cv-jaeha/algorithm/tree/main/2.%20if%EB%AC%B8)
-3. [반복문](https://github.com/cv-jaeha/algorithm/tree/main/3.%20for%EB%AC%B8)
+1. [입출력과 사칙연산](https://github.com/cv-jaeha/algorithm/tree/main/1.%20입출력과%20사칙연산)
+2. [조건문](https://github.com/cv-jaeha/algorithm/tree/main/2.%20조건문)
+3. [반복문](https://github.com/cv-jaeha/algorithm/tree/main/3.%20반복문)
 4. [1차원 배열]()
 5. [함수]()
 6. [문자열]()
